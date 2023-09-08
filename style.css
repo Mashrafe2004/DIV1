@@ -1,0 +1,62 @@
+
+/*1st card */
+  
+  .first-card{
+    background-color: rgb(224, 224, 224);
+}
+.blog-article{
+  
+    width: 410px;
+    padding: 25px;
+    margin: auto;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.blog-article h4 span{
+   color: rgb(198, 84, 122);
+
+}
+.blog-article h1 span{
+    font-family: "Helvetica Neue", Helvetica, Arial,;
+    color: rgb(63, 63, 50);
+}
+.blog-article p{
+    color: rgb(50, 46, 41);
+}
+
+
+/* 2nd card */
+
+
+.secede-card{
+    background-color: rgb(241, 232, 220);
+}
+.p-item{
+    width:246px;
+    padding: 10px;
+    margin: auto;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.price-color{
+    color: rgb(240, 146, 6);
+   font-weight:600;
+    font-size: larger;
+}
+
+    /*3rd card */
+.Third-card{
+    background-color: rgb(225, 216, 216);
+}
+.CIT{
+    width: 390px; 
+    padding: 20px;
+    margin: auto;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+
+h2{
+    color: rgb(6, 6, 5);
+}
